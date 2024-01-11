@@ -24,3 +24,5 @@ Third time line
 Forth time line
 
 test rebase1
+
+test rebase2
