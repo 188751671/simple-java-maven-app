@@ -1,3 +1,4 @@
+name: DeployeManually
 on:
   workflow_dispatch:
     branches:
