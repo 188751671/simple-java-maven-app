@@ -1,5 +1,5 @@
 
-name: GitHub Actions Demo
+name: ${github} ${runner} Demo.yml
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
