@@ -1,4 +1,4 @@
-name: DeployeManually
+name: BuildManually
 on:
   workflow_dispatch:
     branches:
